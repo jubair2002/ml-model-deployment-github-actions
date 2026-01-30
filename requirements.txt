@@ -1,0 +1,5 @@
+# Core ML & app (TensorFlow 2.16+ for current pip index)
+tensorflow>=2.16
+numpy>=1.21
+opencv-python-headless>=4.5
+streamlit>=1.18
