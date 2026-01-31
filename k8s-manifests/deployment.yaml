@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: ml-model-container
-        image: jubair2002/plant-disease-detection:latest
+        image: jubair2002/plant-disease-detection:9fc60da
         ports:
         - containerPort: 8501
         resources:
